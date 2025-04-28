@@ -1,0 +1,49 @@
+{
+  "node": {
+    "7f388c1e8a3691a6761356c44b604fb4bf4dcb9398": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": "[project]/.next-internal/server/app/_not-found/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "7f079adcedb78426afbfb760c47d399eb64b2357f3": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": "[project]/.next-internal/server/app/_not-found/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "7f30fe9f246b3b20fb0b2be3f144df4377d72757ed": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": "[project]/.next-internal/server/app/_not-found/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "7fbfb84318f0afddd7b9a72978e3e6ba2f8eefde06": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": "[project]/.next-internal/server/app/_not-found/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.12.12_next@15.2.4_react-dom@19.0.0_react@19.0.0__react@19.0.0__react-dom@19.0_6wzbu4mj6xhsubvxtkxtygy2ya/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
